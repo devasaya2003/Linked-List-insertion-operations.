@@ -1,4 +1,4 @@
-# Linked-List-insertion-operations.  
+# Linked List Insertion Operations.  
 There are 4 types of insertion operations we can perform on a linked list.  
 These operations are as follows:  
 1. Insertion at the beginning -> Inserting an element at the beginning of the linked list.  
